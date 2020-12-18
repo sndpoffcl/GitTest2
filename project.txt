@@ -21,3 +21,4 @@ class NaturalNumbers{
         System.out.println(findSum(n)); 
     }  
 } 
+//this is a new line
